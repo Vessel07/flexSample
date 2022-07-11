@@ -112,6 +112,14 @@ header .container div{
 	.boxes .container {
 		flex-direction: column;
 		text-align: center;
+		align-items: center;
+	}
+	.box{
+		width: 300px;
+	}
+	.header img {
+		width: 300px;
 		
+		margin: 20px;
 	}
 }
